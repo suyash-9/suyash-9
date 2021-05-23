@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suyash-9
 - 👀 I’m interested in development and designing
-- 🌱 I’m currently learning python and its applications alnog with c++
+- 🌱 I’m currently learning python and its applications along with c++
 - 💞️ I’m looking to collaborate on develoment projects
 - 📫 How to reach me ...
 
